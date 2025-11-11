@@ -1,17 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="IXxyU6fRYWRYOFxwdh8Y">
-    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6_pRiZwqNaAqKWXemRhx-1" value="Reconciliation on the New Data Hub" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="60" width="700" height="60" as="geometry" />
+          <mxGeometry x="250" y="70" width="700" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4xkRkh-G8oHa3wgeGR26-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="260" width="60" height="80" as="geometry" />
+        <mxCell id="4xkRkh-G8oHa3wgeGR26-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="190" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="4xkRkh-G8oHa3wgeGR26-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="60" height="80" as="geometry" />
+        <mxCell id="4xkRkh-G8oHa3wgeGR26-1" value="DCC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="220" width="135" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4xkRkh-G8oHa3wgeGR26-6" value="SAP FSCT" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="500" width="135" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4xkRkh-G8oHa3wgeGR26-7" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="660" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4xkRkh-G8oHa3wgeGR26-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="660" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
