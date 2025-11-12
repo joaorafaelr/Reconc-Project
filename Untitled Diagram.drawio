@@ -72,10 +72,10 @@
           <mxGeometry x="90" y="90" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NAofwmF3DqSUADf0JWPm-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="80" width="1240" height="885" as="geometry" />
+          <mxGeometry x="1200" y="80" width="1240" height="885" as="geometry" />
         </mxCell>
-        <mxCell id="NAofwmF3DqSUADf0JWPm-12" value="Azure Cloud" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="100" width="80" height="30" as="geometry" />
+        <mxCell id="NAofwmF3DqSUADf0JWPm-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Azure Cloud&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8oulVKArE_1kOFFJYh4-1" value="Create Stream: Table DCC_suporte" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="265" width="120" height="60" as="geometry" />
@@ -137,8 +137,60 @@
         <mxCell id="z8oulVKArE_1kOFFJYh4-17" value="Create Target:&amp;nbsp;Azure Event Hub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="265" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8oulVKArE_1kOFFJYh4-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="260" width="660" height="400" as="geometry" />
+        <mxCell id="z8oulVKArE_1kOFFJYh4-26" value="Express Route" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-27" value="Express Route" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="160" width="1080" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-28" value="Express Route" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-18" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="340" width="660" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-19" value="Events Hub" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8oulVKArE_1kOFFJYh4-17" target="z8oulVKArE_1kOFFJYh4-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="295" />
+              <mxPoint x="1180" y="450" />
+              <mxPoint x="1330" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-21" value="Encryption&lt;div&gt;VPN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-22" value="Encryption&lt;div&gt;VPN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-23" value="Encryption&lt;div&gt;VPN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="550" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8oulVKArE_1kOFFJYh4-4" target="z8oulVKArE_1kOFFJYh4-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1155" y="430" />
+              <mxPoint x="1155" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8oulVKArE_1kOFFJYh4-16" target="z8oulVKArE_1kOFFJYh4-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="580" />
+              <mxPoint x="1180" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8oulVKArE_1kOFFJYh4-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Azure Tenent&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="180" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
