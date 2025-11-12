@@ -8,7 +8,7 @@
           <mxGeometry x="70" y="80" width="1090" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="4xkRkh-G8oHa3wgeGR26-7" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="330" y="180" width="660" height="1000" as="geometry" />
+          <mxGeometry x="330" y="180" width="760" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="6_pRiZwqNaAqKWXemRhx-1" value="Reconciliation on the New Data Hub" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="10" width="700" height="60" as="geometry" />
@@ -59,8 +59,14 @@
         <mxCell id="NAofwmF3DqSUADf0JWPm-6" value="SAS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="770" width="135" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="NAofwmF3DqSUADf0JWPm-10" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NAofwmF3DqSUADf0JWPm-10" value="On-Premise" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NAofwmF3DqSUADf0JWPm-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="80" width="1240" height="885" as="geometry" />
+        </mxCell>
+        <mxCell id="NAofwmF3DqSUADf0JWPm-12" value="Cloud Azure" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="100" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
