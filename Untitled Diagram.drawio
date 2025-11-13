@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="IXxyU6fRYWRYOFxwdh8Y">
-    <mxGraphModel dx="1657" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="4xkRkh-G8oHa3wgeGR26-7" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="330" y="180" width="760" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="6_pRiZwqNaAqKWXemRhx-1" value="Reconciliation on the New Data Hub" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6_pRiZwqNaAqKWXemRhx-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Reconciliation on the New Data Hub&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" width="700" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4xkRkh-G8oHa3wgeGR26-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -74,7 +74,7 @@
         <mxCell id="NAofwmF3DqSUADf0JWPm-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="80" width="1240" height="1530" as="geometry" />
         </mxCell>
-        <mxCell id="NAofwmF3DqSUADf0JWPm-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Azure Cloud&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="NAofwmF3DqSUADf0JWPm-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Cloud&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1230" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8oulVKArE_1kOFFJYh4-1" value="Create Stream: Table DCC_suporte" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -193,7 +193,7 @@
         <mxCell id="z8oulVKArE_1kOFFJYh4-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1470" y="510" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="z8oulVKArE_1kOFFJYh4-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Azure Tenent&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="z8oulVKArE_1kOFFJYh4-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Tenent&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1260" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8oulVKArE_1kOFFJYh4-38" value="Topic name: DCC_events" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -226,7 +226,7 @@
         <mxCell id="z8oulVKArE_1kOFFJYh4-51" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="1270" y="170" width="1010" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="z8oulVKArE_1kOFFJYh4-52" value="&lt;font&gt;Container Based System&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="z8oulVKArE_1kOFFJYh4-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Container Based System&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1275" y="170" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8oulVKArE_1kOFFJYh4-53" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" parent="1" vertex="1">
@@ -247,7 +247,7 @@
         <mxCell id="z8oulVKArE_1kOFFJYh4-55" value="Create Container: DCC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tMZC_w3sbM1lPk8AFb2k-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z8oulVKArE_1kOFFJYh4-56" target="z8oulVKArE_1kOFFJYh4-62">
+        <mxCell id="tMZC_w3sbM1lPk8AFb2k-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="z8oulVKArE_1kOFFJYh4-56" target="z8oulVKArE_1kOFFJYh4-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8oulVKArE_1kOFFJYh4-56" value="Create Container: SAP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -293,16 +293,16 @@
         <mxCell id="z8oulVKArE_1kOFFJYh4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="z8oulVKArE_1kOFFJYh4-70" target="z8oulVKArE_1kOFFJYh4-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z8oulVKArE_1kOFFJYh4-82" value="Microservice 1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1900" y="210" width="90" height="30" as="geometry" />
+        <mxCell id="z8oulVKArE_1kOFFJYh4-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Microservice 1&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1890" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMZC_w3sbM1lPk8AFb2k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="tMZC_w3sbM1lPk8AFb2k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="1270" y="880" width="1020" height="320" as="geometry" />
         </mxCell>
         <mxCell id="z8oulVKArE_1kOFFJYh4-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z8oulVKArE_1kOFFJYh4-73" target="z8oulVKArE_1kOFFJYh4-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tMZC_w3sbM1lPk8AFb2k-3" value="Operational Data Layer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tMZC_w3sbM1lPk8AFb2k-3" value="Operational Data Layer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1280" y="890" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
