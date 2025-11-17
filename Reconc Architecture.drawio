@@ -991,8 +991,8 @@
         <mxCell id="K9jBiv4FLKLrjcx0Fi24-11" value="&lt;font face=&quot;Verdana&quot;&gt;Load ptocessed events&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1567.07" y="1184" width="130" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="K9jBiv4FLKLrjcx0Fi24-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Analyse&amp;nbsp;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="1494.13" y="810" width="105.87" height="19.5" as="geometry" />
+        <mxCell id="K9jBiv4FLKLrjcx0Fi24-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Publish events&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1494.13" y="845" width="105.87" height="19.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
