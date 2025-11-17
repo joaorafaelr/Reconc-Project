@@ -427,9 +427,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-59" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;On-Premise&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="20" y="190" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-60" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Azure Cloud&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="800" y="190" width="110" height="30" as="geometry" />
         </mxCell>
