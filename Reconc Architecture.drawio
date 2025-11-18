@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="Page-1" id="IXxyU6fRYWRYOFxwdh8Y">
-    <mxGraphModel dx="3640" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,13 +858,13 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-249" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Database/System Availability&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Query Latency&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Volume of Data Extracted&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Data Extraction Time&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="25" y="2160" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-250" value="&lt;b&gt;Sources Observability Information&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-250" value="&lt;b&gt;Sources Observability Metrics&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="62.5" y="2130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-251" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=none;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="340" y="2120" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-252" value="&lt;b&gt;CDC´s Observability Information&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-252" value="&lt;b&gt;CDC´s Observability&amp;nbsp;&lt;/b&gt;&lt;b&gt;Metrics&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="382.5" y="2130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-253" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;CDC Latency&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Event Throughput&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Processing Error Rate&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Resource Usage&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -880,7 +880,7 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-256" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=none;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="650" y="2120" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-257" value="&lt;b&gt;Events Observability Information&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-257" value="&lt;b&gt;Events Observability&amp;nbsp;&lt;/b&gt;&lt;b&gt;Metrics&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="692.5" y="2130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-258" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Open Sans_EmbeddedFont&amp;quot;, &amp;quot;Open Sans_MSFontService&amp;quot;, sans-serif; background-color: transparent; text-indent: 0.466667px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Message Throughput&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Open Sans_EmbeddedFont&amp;quot;, &amp;quot;Open Sans_MSFontService&amp;quot;, sans-serif; text-indent: 0.466667px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Input/Output Bytes&lt;br&gt;Publish Latency&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Open Sans_EmbeddedFont&amp;quot;, &amp;quot;Open Sans_MSFontService&amp;quot;, sans-serif; text-indent: 0.466667px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Consumption Latency&lt;br&gt;Message Backlog&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Open Sans_EmbeddedFont&amp;quot;, &amp;quot;Open Sans_MSFontService&amp;quot;, sans-serif; text-indent: 0.466667px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Authorization/Connection Errors&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Open Sans_EmbeddedFont&amp;quot;, &amp;quot;Open Sans_MSFontService&amp;quot;, sans-serif; text-indent: 0.466667px; white-space-collapse: preserve;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Open Sans_EmbeddedFont&amp;quot;, &amp;quot;Open Sans_MSFontService&amp;quot;, sans-serif; background-color: transparent; text-indent: 0.466667px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -896,7 +896,7 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-260" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=none;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="985" y="2120" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-261" value="&lt;b&gt;Microservices Observability Information&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-261" value="&lt;b&gt;Microservices Observability&amp;nbsp;&lt;/b&gt;&lt;b&gt;Metrics&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1027.5" y="2130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-263" value="&lt;ul&gt;&lt;li&gt;Availability&lt;/li&gt;&lt;li&gt;Request LatencyError Rate&lt;/li&gt;&lt;li&gt;Request Throughput&lt;/li&gt;&lt;li&gt;CPU and Memory Usage&lt;/li&gt;&lt;li&gt;Dependency&amp;nbsp;&lt;/li&gt;&lt;li&gt;Latency&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Schema Validation Errors&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Enriched/Normalized Events&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -905,7 +905,7 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-264" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=none;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1330" y="2120" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-265" value="&lt;b&gt;ADL Observability Information&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-265" value="&lt;b&gt;ADL Observability&amp;nbsp;&lt;/b&gt;&lt;b&gt;Metrics&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1372.5" y="2130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-266" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Database Availability&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Database Size&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Documents Inserted/Updated&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -926,11 +926,11 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-269" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=none;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1685" y="2115" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-270" value="&lt;b&gt;ODL Observability Information&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-270" value="&lt;b&gt;ODL Observability&amp;nbsp;&lt;/b&gt;&lt;b&gt;Metrics&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1727.5" y="2125" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-271" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Database Availability&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Read/Write Latency&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Query/Operation Error Rate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Request Units Consumed&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Data Throughput&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Database Size&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Documents Inserted/Updated&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1685" y="2155" width="200" height="105" as="geometry" />
+          <mxGeometry x="1685" y="2160" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CCCC00;strokeWidth=3;" parent="1" target="RYa82yIjixP5IM3xTWSI-269" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -944,7 +944,7 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-273" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=none;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="2014.6" y="2115" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-274" value="&lt;b&gt;ODL Observability Information&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-274" value="&lt;b&gt;ODL Observability&amp;nbsp;&lt;/b&gt;&lt;b&gt;Metrics&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2057.1" y="2125" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-275" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Application Availability&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Error Rate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;CPU and Memory Usage&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Reconciliation Events Processed&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Reconciliation Status&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Reconciliation Deviation Alerts&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
