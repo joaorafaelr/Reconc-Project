@@ -1171,6 +1171,9 @@
         <mxCell id="ecke8Kkd-_xnNHLgUF1G-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;Response&lt;/font&gt;" vertex="1">
           <mxGeometry height="14.29" width="60" x="2465.4" y="1598.75" as="geometry" />
         </mxCell>
+        <mxCell id="ecke8Kkd-_xnNHLgUF1G-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;Request&lt;/font&gt;" vertex="1">
+          <mxGeometry height="14.29" width="60" x="2439.995" y="1271.7549999999999" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
