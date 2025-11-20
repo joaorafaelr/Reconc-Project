@@ -540,8 +540,7 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-206" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6c8ebf;fontFamily=Verdana;fillColor=#dae8fc;" target="AcqprNQmeEBxDmLzWxDU-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1970" y="1000" />
-              <mxPoint x="2000" y="1000" />
+              <mxPoint x="2000" y="995" />
               <mxPoint x="2000" y="750" />
               <mxPoint x="1390" y="750" />
               <mxPoint x="1390" y="383" />
