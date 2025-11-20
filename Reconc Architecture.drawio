@@ -287,13 +287,13 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-36" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="RYa82yIjixP5IM3xTWSI-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;stream&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;tables&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;stream&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Tables&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="65" x="377.5" y="605.5" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-38" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="RYa82yIjixP5IM3xTWSI-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;schema validation&lt;/span&gt;" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Schema Validation&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="65" x="487.5" y="605.5" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Target:&amp;nbsp;Azure Events Hub&lt;/span&gt;" vertex="1">
@@ -314,10 +314,10 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-45" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="RYa82yIjixP5IM3xTWSI-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;schema validation&lt;/span&gt;" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Schema Validation&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="65" x="487.5" y="845" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Create Target:&amp;nbsp;Azure Events Hub&lt;/span&gt;" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Target:&amp;nbsp;Azure Events Hub&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="65" x="607.5" y="845" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-48" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="RYa82yIjixP5IM3xTWSI-51">
@@ -329,16 +329,16 @@
         <mxCell id="RYa82yIjixP5IM3xTWSI-50" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="RYa82yIjixP5IM3xTWSI-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Create stream&lt;/span&gt;" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Stream Tables&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="65" x="377.5" y="1075" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-52" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="RYa82yIjixP5IM3xTWSI-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;schema validation&lt;/span&gt;" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Schema Validation&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="65" x="487.5" y="1075" as="geometry" />
         </mxCell>
-        <mxCell id="RYa82yIjixP5IM3xTWSI-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Create Target:&amp;nbsp;Azure Events Hub&lt;/span&gt;" vertex="1">
+        <mxCell id="RYa82yIjixP5IM3xTWSI-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=6;flipH=1;flipV=0;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Target:&amp;nbsp;Azure Events Hub&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="65" x="607.5" y="1075" as="geometry" />
         </mxCell>
         <mxCell id="RYa82yIjixP5IM3xTWSI-58" edge="1" parent="1" source="RYa82yIjixP5IM3xTWSI-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;strokeColor=#999999;" target="RYa82yIjixP5IM3xTWSI-12">
