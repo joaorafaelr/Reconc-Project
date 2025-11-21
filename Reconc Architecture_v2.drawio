@@ -1189,13 +1189,13 @@
           <mxGeometry height="20.25" width="100.5" x="1211" y="740" as="geometry" />
         </mxCell>
         <mxCell id="op2rI_M-CJd7xoGDyGNy-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;Microservice n - Pre-Processing n&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="215" x="962" y="669.25" as="geometry" />
+          <mxGeometry height="30" width="288" x="962" y="669.25" as="geometry" />
         </mxCell>
         <mxCell id="op2rI_M-CJd7xoGDyGNy-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;Microservice n - Domain n&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="215" x="1522" y="669" as="geometry" />
+          <mxGeometry height="30" width="298" x="1522" y="669" as="geometry" />
         </mxCell>
         <mxCell id="op2rI_M-CJd7xoGDyGNy-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Verdana; font-size: 11px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Verdana; font-size: 11px;&quot;&gt;Microservice n - Reconciliation Engine n&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="250" x="1995" y="669.25" as="geometry" />
+          <mxGeometry height="30" width="330" x="1995" y="669.25" as="geometry" />
         </mxCell>
         <mxCell id="op2rI_M-CJd7xoGDyGNy-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=43;fillColor=#B2CBE6;strokeColor=none;fontFamily=Verdana;" value="" vertex="1">
           <mxGeometry height="32" width="330" x="1549" y="615" as="geometry" />
