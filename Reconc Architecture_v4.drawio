@@ -1307,7 +1307,7 @@
         <mxCell id="0LPPALgXLzqKsIbnQ200-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#DAE8FC,#999999);strokeColor=#6C8EBF;" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;Verify Security&lt;/font&gt;" vertex="1">
           <mxGeometry height="44.23" width="75.4" x="1242.8" y="1331.93" as="geometry" />
         </mxCell>
-        <mxCell id="0LPPALgXLzqKsIbnQ200-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#DAE8FC,#999999);strokeColor=#6C8EBF;" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;Identify&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;Route&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="0LPPALgXLzqKsIbnQ200-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#DAE8FC,#999999);strokeColor=#6C8EBF;" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;Identify&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;Microservice&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="44.23" width="75.4" x="1353.1000000000001" y="1331.93" as="geometry" />
         </mxCell>
         <mxCell id="0LPPALgXLzqKsIbnQ200-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=9;align=left;fontFamily=Verdana;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Integration Layer&lt;/b&gt;&lt;/font&gt;" vertex="1">
