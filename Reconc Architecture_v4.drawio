@@ -1428,9 +1428,8 @@
         <mxCell id="0LPPALgXLzqKsIbnQ200-9" parent="0LPPALgXLzqKsIbnQ200-62" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#DAE8FC,#999999);strokeColor=#6C8EBF;" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;Identify&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;Microservice&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="44.23" width="75.4" x="266.7000000000003" y="0.5799999999999272" as="geometry" />
         </mxCell>
-        <mxCell id="0LPPALgXLzqKsIbnQ200-64" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.188;exitY=1.007;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#6C8EBF;exitPerimeter=0;entryX=0.494;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;">
+        <mxCell id="0LPPALgXLzqKsIbnQ200-64" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.188;exitY=1.007;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#6C8EBF;exitPerimeter=0;entryX=0.494;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;flowAnimation=0;">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
             <mxPoint x="1350.21" y="1471" as="sourcePoint" />
             <mxPoint x="1349.94" y="1565.5849999999998" as="targetPoint" />
           </mxGeometry>
